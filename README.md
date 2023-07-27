@@ -18,4 +18,4 @@ In-memory database project, with cool functions<br>
 This project will be full public in 2024.<br>
 
 ## License
-ForestPlug is licensed under the permissive MIT license. Please see [`LICENSE.txt`](https://github.com/iVantional/Mango/blob/master/LICENSE.txt) for more information.
+Mango is licensed under the permissive MIT license. Please see [`LICENSE.txt`](https://github.com/iVantional/Mango/blob/master/LICENSE.txt) for more information.
